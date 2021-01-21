@@ -8,15 +8,11 @@ Collection of useful articles
 * https://blog.jdriven.com/2019/11/spring-cloud-gateway-with-openid-connect-and-token-relay/ - Spring-Cloud-Gateway secured by keycloak
 * https://mobiarch.wordpress.com/2013/01/11/spring-di-and-cdi-comparative-study/ - Comparisation between CDI and Spring
 
-| CDI Scope        | Spring Scope           |
+| CDI        | Spring           |
 | ------------- |-------------|
 | Dependent (default) | Prototype |
 | Request| Request|
 | Conversation | (No equivalent exists) |
 | Session | Session |
 | Application | Singleton (default) |
-
-## Producer
-| CDI | Spring
-| ------------- |-------------|
-| @Produces | @Bean
+| @Produces | @Bean |
