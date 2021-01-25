@@ -16,3 +16,6 @@ Collection of useful articles
 | Session | Session |
 | Application | Singleton (default) |
 | @Produces | @Bean |
+
+# GIT
+* https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/
