@@ -17,5 +17,8 @@ Collection of useful articles
 | Application | Singleton (default) |
 | @Produces | @Bean |
 
+# OAuth2
+* https://github.com/alex996/presentations/blob/master/auth.md - Stateful vs Stateless Authentication
+
 # GIT
 * https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/
