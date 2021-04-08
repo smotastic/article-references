@@ -25,3 +25,7 @@ Collection of useful articles
 
 # VueJs
 * https://medium.com/nerd-for-tech/from-vue-cli-to-vitejs-648d2f5e031d
+
+# Web
+* https://github.com/lindelof/awesome-web-effect
+* https://github.com/nordicgiant2/awesome-landing-page
