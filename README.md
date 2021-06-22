@@ -29,3 +29,6 @@ Collection of useful articles
 # Web
 * https://github.com/lindelof/awesome-web-effect
 * https://github.com/nordicgiant2/awesome-landing-page
+
+# Flutter
+* https://flutter4fun.com/ui-challenge-5/
