@@ -22,6 +22,7 @@ Collection of useful articles
 
 # GIT
 * https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/
+* https://www.conventionalcommits.org/en/v1.0.0/
 
 # VueJs
 * https://medium.com/nerd-for-tech/from-vue-cli-to-vitejs-648d2f5e031d
