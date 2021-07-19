@@ -33,3 +33,7 @@ Collection of useful articles
 
 # Flutter
 * https://flutter4fun.com/ui-challenge-5/
+* https://blog.gskinner.com/archives/2020/09/flokk-how-we-built-a-desktop-app-using-flutter.html
+
+# Material Design
+* https://material.io/design/color/the-color-system.html#color-theme-creation
