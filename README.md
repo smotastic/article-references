@@ -5,7 +5,8 @@ Collection of useful articles
 # Angular
 | Type | Angular        | Vue           |
 | ------------- | ------------- |-------------|
-| Property Binding | \<a [href]="link">Some Link\</a> | \<a :href="link">SomeLink\</a> |
+| Property Binding | \<a [href]="link">Some Link\</a> | \<a :href="link">Some Link\</a> |
+| Event Binding | \<button (click)="someMethod">Some Button\</button> | \<button @click="someMethod">Some Button\</button> |
 
 # JPA
 * https://vladmihalcea.com/the-best-way-to-map-a-onetomany-association-with-jpa-and-hibernate/ - Differences between unidirectional and bidirectional associations
