@@ -4,7 +4,7 @@ Collection of useful articles
 
 # Angular
 | Type | Angular        | Vue           |
-| ------------- |-------------|
+| ------------- | ------------- |-------------|
 | Property Binding | <a [href]="link">Some Link</a> | <a :href="link">Some Link</a> |
 
 # JPA
