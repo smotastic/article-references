@@ -33,6 +33,7 @@ Collection of useful articles
 
 # VueJs
 * https://medium.com/nerd-for-tech/from-vue-cli-to-vitejs-648d2f5e031d
+* https://adamwathan.me/renderless-components-in-vuejs/ - Renderless Components
 
 # Web
 * https://github.com/lindelof/awesome-web-effect
