@@ -26,6 +26,7 @@ Collection of useful articles
 
 # OAuth2
 * https://github.com/alex996/presentations/blob/master/auth.md - Stateful vs Stateless Authentication
+* https://www.keycloak.org/docs/latest/server_admin/index.html#_identity_broker_overview - Identity Broker / Identity Provider
 
 # GIT
 * https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/
